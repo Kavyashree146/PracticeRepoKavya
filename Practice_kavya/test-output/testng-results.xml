@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[This is a practice program]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-18T23:52:38 IST" name="Default suite" finished-at="2024-03-18T23:52:38 IST" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2024-03-18T23:52:38 IST" name="Default test" finished-at="2024-03-18T23:52:38 IST" duration-ms="77">
+      <class name="github.githubPracticeTest">
+        <test-method signature="gitPractice()[pri:0, instance:github.githubPracticeTest@55a147cc]" started-at="2024-03-18T23:52:38 IST" name="gitPractice" finished-at="2024-03-18T23:52:38 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is a practice program]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gitPractice -->
+      </class> <!-- github.githubPracticeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
